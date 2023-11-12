@@ -1,0 +1,385 @@
+@media(max-width:575px) and (min-width:0px){
+    .nav-item {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .nav-link {
+        margin-top: 5px;
+    }
+    .iphone{
+        display: none;
+    }
+    .height{
+        text-align: center;
+        flex-direction: column-reverse;
+    }
+    .bannar-content p{
+        padding: 20px 0px 40px;
+    }
+    .bannar-content h1{
+        font-size: 30px;
+    }
+    .bannar-content h6{
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    header{
+        padding-bottom: 70px;
+    }
+    .mobile_phone{
+        display: inherit;
+        width: 80%;
+        position: static;
+    }
+    .about-section{
+        padding-top: 30px;
+    }
+    .about-section h1{
+        padding-bottom: 30px;
+    }
+    .about-content h6{
+        padding: 10px 0;
+    }
+    .feature-image img {
+        width: 60%;
+    }
+    .feature-image{
+        margin: auto;
+        text-align: center;
+    }
+    .feature-content h1{
+        padding-bottom: 30px;
+    }
+    .feature-content h6{
+        padding: 40px 0 10px;
+    }
+    .feature-section{
+        padding: 30px 0;
+    }
+    .about-content p{
+        padding-bottom: 30px;
+    }
+    .about-section{
+        padding: 30px 0;
+    }
+    .about-section h1{
+        font-size: 30px;
+    }
+    .card{
+        margin-top: 35px;
+    }
+    .pricing-heading{
+        padding-bottom: 10px;
+    }
+    .pricing-section{
+        padding: 30px 0;
+    }
+    .contact-section{
+        padding-bottom: 350px;
+    }
+    .form{
+        width: 80%;
+        bottom: -100px;
+    }
+    .contact-heading h1 {
+        font-size: 30px;
+        padding-bottom: 0;
+    }
+    .contact-icon i{
+        margin-top: 30px;
+    }
+    .black-content{
+        display:block;
+        text-align: center;
+    }
+    .black-text h1{
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .testimonial-section{
+        padding: 20px 0 50px;
+    }
+    .feature-image1{
+        width: 70%;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .feature-content1 h6{
+        padding: 0;
+    }
+    .contact-content p {
+        padding-top: 0;
+    }
+    .about-content h6{
+        font-size: 20px;
+    }
+    .feature-image1{
+        width: 100%;
+    }
+    
+}  
+
+@media(max-width:375px) and (min-width:0px){
+    .mobile_phone{
+        display: none;
+    }
+    .bannar-content h6{
+        font-size: 15px;
+    }
+    .bannar-content h1{
+        font-size: 25px;
+    }
+    .header-bottom a{
+        padding: 7px 10px;
+        margin-right: 0px;
+    }
+    .height{
+        text-align: center;
+        flex-direction:unset;
+    }
+    header{
+        padding-bottom: 0px;
+    }
+    .about-section h1{
+        font-size: 25px;
+    }
+    .feature-content h1{
+        font-size: 25px;
+    }
+    .feature-content1 h1{
+        font-size: 25px;
+        padding-bottom: 35px;
+    }
+    .testimonial-heading h1{
+        font-size: 25px;
+        padding: 0;
+    }
+    .testimonial-heading{
+        padding-bottom: 20px;
+    }
+    .black-bottom a{
+        padding: 5px 10px;
+        margin-right: 0;
+    }
+    .pricing-heading h1{
+        font-size: 25px;
+    }
+    .form{
+        width: 80%;
+    }
+    .item-1 h5 {
+        font-size: 20px;
+    }
+    .feature-image1{
+        width: 100%;
+    }
+
+}
+
+
+@media(max-width:767px) and (min-width:576px){
+    .iphone{
+        display: none;
+    }
+    .height{
+        text-align: center;
+    }
+    .about-content p{
+        padding-bottom: 30px;
+    }
+    .about-content h6{
+        padding: 10px 0;
+    }
+    .about-section{
+        padding: 10px 0;
+    }
+    .feature-content h6{
+        padding: 0;
+    }
+    .feature-content1 h6{
+        padding: 0;
+    }
+    .feature-image img{
+        width: 50%;
+        margin: auto;
+    }
+    .black-content{
+        display:block;
+        text-align: center;
+    }
+    .black-text h1{
+        margin-bottom: 30px;
+    }
+    .contact-content p{
+        padding-top: 0;
+        padding-bottom: 20px;
+    }
+    .contact-section{
+        padding-bottom: 350px;
+    }
+    .form{
+        bottom: -75px;
+        width: 80%;
+    
+    }
+    .card{
+        margin-top: 35px;
+    }
+    .feature-image{
+        text-align: center;
+    }
+    .feature-content h6{
+        padding: 10px 0;
+    }
+    .contact-content{
+        text-align: center;
+        
+    }
+    .feature-section-1{
+        padding: 0;
+        padding-top: 20px;
+    }
+    .feature-section{
+        padding: 20px 0;
+    }
+    .feature-image1{
+        width: 60%;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .about-section{
+        padding: 40px 0;
+    }
+    .pricing-heading{
+        padding-bottom: 10px;
+    }
+    .pricing-section{
+        padding: 25px 0;
+    }
+    .bannar-content h6{
+       margin-top: 40px;
+       padding-bottom: 10px;
+    }
+    .bannar-content p{
+        margin-bottom: 20px;
+     }
+     .nav-item {
+        text-align: center;
+        display: flex;
+        justify-content:center;
+    }
+    .nav-link {
+        margin-top: 10px;
+    }
+    .bannar-content h1{
+        font-size: 40px;
+    }
+    .testimonial-section{
+        padding: 20px 0 30px;
+    }
+
+}
+
+
+@media(max-width:991px) and (min-width:768px){
+    .iphone{
+        display: none;
+    }
+    .about-content h6{
+        padding:10px 0;
+        font-size: 20px;
+    }
+    .bannar-content h1{
+        font-size: 35px;
+    }
+    .about-section h1{
+        font-size: 35px;
+        padding: 10px 0 50px 0;
+    }
+    .about-content p{
+        font-size: 15px;
+    }
+    .about-section{
+        padding: 30px 0;
+    }
+    .about-icon i{
+        font-size: 25px;
+        height: 50px;
+        width: 50px;
+        display: flex;
+        align-items: center;
+        justify-content:center;
+    }
+    .feature-content h6{
+        padding: 0;
+    }
+    .feature-image img{
+        margin-top: 20px;
+    }
+    .feature-content h1{
+        font-size: 35px;
+        padding: 10px 0 30px;
+    }
+    .feature-content1 h6{
+        padding: 0;
+        margin-top: 20px;
+    }
+    .feature-image1 img{
+        margin-top: 75px;
+        margin-left: 35px;
+    }
+    .mobile_phone{
+        display: inherit;
+        width: 40%;
+        position: absolute;
+        right: 70px;
+        bottom: 45px;
+
+    }
+    .feature-content p{
+        font-size: 15px;
+    }
+    .feature-content1 h1{
+        font-size: 35px;
+        padding:10px 0 30px
+    }
+    .about-content p{
+        padding-bottom: 50px;
+    }
+    .black-text h1{
+        font-size: 35px;
+        margin-bottom: 30px;
+    }
+    .black-content{
+        display:block;
+        text-align: center;
+    }
+    .testimonial-section{
+        padding: 10px 0 50px;
+    }
+    .card{
+        margin-top: 40px;
+    }
+    .feature-content1 h6{
+        margin-top: 0;
+    }
+    .form{
+        width: 75%;
+    }
+    .pricing-heading{
+        padding-bottom: 30px;
+    }
+    .item-1 h5{
+        font-size: 25px;
+    }
+    .item-2 span{
+        font-size: 50px;
+    }
+    .bannar-content h6{
+        padding-top: 40px;
+    }
+}
+@media(max-width:575px) and (min-width:0px){
+
+}
